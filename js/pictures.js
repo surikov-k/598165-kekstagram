@@ -85,7 +85,6 @@ var createThumbsElements = function () {
 
 createThumbsElements();
 
-
 var bigPicture = document.querySelector('.big-picture');
 
 var createBigPictureElements = function (postId) {
